@@ -50,10 +50,8 @@ THEN I find a concise, descriptive title
 * Make the layout responsive.
 * Reduce Image Sizes
 
-* **Mock-up**: This is an image of my application.
 
-
-## Mock-Up
+## Mock-Up This is an image of my application.
 
 The following image shows the web application's appearance and functionality:
 
