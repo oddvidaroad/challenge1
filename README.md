@@ -27,15 +27,30 @@ THEN I find a concise, descriptive title
 ```
 
 ### Change Log
-* Doing things
+* Refactored CSS
+* Consolidated CSS Classes
+* Changes Classes to id's as needed
+* Connected Anchor Links in Main Nav
+* Added more descriptive title
+* Content follows a logical structure
+* Checked for Accesibility
+    * Added Alt Text for Images
+    * No Hidden Images
+    * Added role and description for heart icon
+    * Structure for headings is in order
+    * Changed colors for contrast accesibility
+    * Added semantic elements
+    * Links are in tab order
+    * Links work
+    * No Iframes
+* Refactored CSS
 
 
 ### To Do
-* Need to do these things in the future.
+* Make the layout responsive.
+* Reduce Image Sizes
 
-
-* **Mock-up**: This is an image or animation that demonstrates the design and functionality of the web application that you'll build for the Challenge.
-
+* **Mock-up**: This is an image of my application.
 
 
 ## Mock-Up
